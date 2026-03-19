@@ -1,0 +1,118 @@
+RMS of x fields: 3.3379819467013725
+RMS of y fields: 1.6760879160618736
+RMS of z fields: 2.5692403313699033
+
+RMS of x fields: 2.8461680728530534
+RMS of y fields: 1.5727876300954515
+RMS of z fields: 2.2942873337643293
+
+RMS of x fields: 2.9465873535170712
+RMS of y fields: 1.4190802402927525
+RMS of z fields: 2.0285158133589194
+
+RMS of x fields: 2.9932143777527735
+RMS of y fields: 1.6270208478309098
+RMS of z fields: 2.0071167696110646
+
+[ 5.2625e+01  5.4000e+01 -1.8000e+00 -7.0000e-01 -8.0000e-01  2.0000e-01  1.7500e-01 -1.2500e-02]
+
+RMS of x fields: 2.245746982680505
+RMS of y fields: 0.8323278871529238
+RMS of z fields: 1.460108250452871
+without channel: 1, 3, 6, 10, 14
+[ 5.2125e+01  5.4750e+01 -1.8000e+00 -7.5000e-01 -9.0000e-01  2.5000e-01 1.2500e-01 -1.2500e-02]
+
+
+RMS of x fields: 1.8848828819560108
+RMS of y fields: 0.8695423643808594
+RMS of z fields: 1.3286299730670412
+w/o channel: 1, 3, 5, 6, 7, 10, 14 
+[ 5.2125e+01  5.4750e+01 -1.8000e+00 -7.5000e-01 -9.0000e-01  2.5000e-01 1.2500e-01 -1.2500e-02]
+
+RMS of x fields: 2.1513324965996334
+RMS of y fields: 0.8596195949003264
+RMS of z fields: 1.808444811601969
+[ 5.2125e+01  5.3000e+01 -1.3000e+00 -7.0000e-01 -1.0000e+00  2.0000e-01
+  1.7500e-01 -1.2500e-02]
+
+
+
+%%-- 20/07/2023 --%%
+initial ([52.625, 54.000,-1.800, -0.700, -0.800, 0.200, 0.175, -0.0125])
+RMS of x fields: 3.8769600082605313
+RMS of y fields: 2.429569075935962
+RMS of z fields: 2.6211513801931474
+
+calibration cycle 1
+RMS of x fields: 2.5015447827641824
+RMS of y fields: 1.5667535972860187
+RMS of z fields: 1.7165900701579304
+
+calibration cycle 2
+RMS of x fields: 2.591423848911233
+RMS of y fields: 1.6244632363165448
+RMS of z fields: 1.7238210926823703
+final settings
+[ 5.4875e+01  5.6000e+01 -3.3000e+00 -7.5000e-01 -8.0000e-01  3.0000e-01 1.7500e-01 -1.2500e-02]
+
+
+during heartbeat test calibration
+initial
+RMS of x fields: 22.944592684971518
+RMS of y fields: 4.885987342306744
+RMS of z fields: 4.315083067581927
+
+calibration cycle 1
+RMS of x fields: 9.950852162895249
+RMS of y fields: 3.671851070677939
+RMS of z fields: 2.030791365841091
+
+calibration cycle 2
+RMS of x fields: 16.232272530747736
+RMS of y fields: 7.8206645494048335
+RMS of z fields: 1.4884266360015181
+
+calibration cycle 3 (no subject in MSR)
+RMS of x fields: 3.755228736246104
+RMS of y fields: 1.417035834519068
+RMS of z fields: 1.6642821825597647
+
+
+Initial baseline: 
+RMS of x fields: 11.091537626119619
+RMS of y fields: 3.4211908448045665
+RMS of z fields: 2.4030258433992446
+
+after least squares adjust
+RMS of x fields: 3.907636579026972
+RMS of y fields: 1.376998853112087
+RMS of z fields: 1.3036034958962344
+
+# calibration method
+RMS of x fields: 4.059948138588992
+RMS of y fields: 2.4314588071130325
+RMS of z fields: 5.232736549960472
+
+RMS of x fields: 3.462757958577691
+RMS of y fields: 1.506454539707566
+RMS of z fields: 1.5128424071573774
+
+# lsq method
+RMS of x fields: 3.4455061069647077
+RMS of y fields: 2.3512530438771573
+RMS of z fields: 5.446830552607343
+
+RMS of x fields: 3.666123142404689
+RMS of y fields: 1.575892010868961
+RMS of z fields: 1.8770456030275637
+
+# Sarangs multi lsq method Aug 29 
+RMS of x fields: 2.9649757067427
+RMS of y fields: 0.915931975929077
+RMS of z fields: 0.8041765565706757
+final setting: [47.40573258, 94.6303444, 9.87937393, -0.65271921, -0.28492748, -0.61974759, 0.17405601,  0.24725688]
+
+# with one cycle and a subject 
+RMS of x fields: 2.8278953718963193
+RMS of y fields: 0.5901118165271164
+RMS of z fields: 0.5269472931273756
